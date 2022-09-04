@@ -9,3 +9,8 @@ yep, this is kind of buggy at times (nothing serious)
 no, i will not make even the slightest attempt at making it perfect
 
 2ez4me
+
+
+TODO:
+linux support?
+(no l0l i have touched grass before and my weight is below 5 digits)
