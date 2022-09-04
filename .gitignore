@@ -1,0 +1,10 @@
+.vs/
+.debug/
+*.ipch
+*.obj
+*.pbd
+*.tlog
+*.recipe
+*.lastbuildstate
+*.idb
+*.log
