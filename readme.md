@@ -1,3 +1,6 @@
+# PROBABLY OUTDATED
+
+
 # VLC-Rich-Presence
 
 yep, this was made in an hour or so at most
